@@ -17,5 +17,5 @@ It allows users to add, update, delete and view products in a store.
 # About Me
 I am a 2nd year BSc Data Science student from Tamil Nadu.
 This project was built as part of the Naan Mudhalvan program.
-#Project demo video 
+# Project demo video 
 https://youtu.be/s08MS1AGTxI?si=7xNK-jH-ICvM9x01
